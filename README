@@ -1,0 +1,8 @@
+Instructions:
+Player 1: A, Z
+Player 2: Up, Down
+Press P to pause.
+
+Credits:
+Font: Eurostile. Freely available from http://fontzone.net/font-details/Eurostile/
+Libraries: SDL, SDL_TTF
